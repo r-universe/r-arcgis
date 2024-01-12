@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "arcgisutils"]
+	path = arcgisutils
+	url = https://github.com/r-arcgis/arcgisutils
 [submodule "arcpbf"]
 	path = arcpbf
 	url = https://github.com/r-arcgis/arcpbf
