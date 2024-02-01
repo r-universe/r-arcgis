@@ -1,0 +1,10 @@
+{
+  "id": 46816159,
+  "created_at": "2024-02-01T17:04:53.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["arcgislayers", "arcgisutils", "arcpbf", "r-arcgis.r-universe.dev"]
+}
