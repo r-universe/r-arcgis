@@ -1,8 +1,0 @@
-[
-  {
-    "package": "arcgisutils",
-    "url": "https://github.com/R-ArcGIS/arcgisutils",
-    "via": ["arcgislayers"],
-    "from": "arcgislayers"
-  }
-]
