@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-arcgis/r-arcgis.r-universe.dev
 	branch = HEAD
+[submodule "arcgis"]
+	path = arcgis
+	url = https://github.com/r-arcgis/arcgis
+[submodule "arcgisgeocode"]
+	path = arcgisgeocode
+	url = https://github.com/r-arcgis/arcgisgeocode
 [submodule "arcgislayers"]
 	path = arcgislayers
 	url = https://github.com/r-arcgis/arcgislayers
