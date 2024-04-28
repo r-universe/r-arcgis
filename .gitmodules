@@ -11,6 +11,9 @@
 [submodule "arcgislayers"]
 	path = arcgislayers
 	url = https://github.com/r-arcgis/arcgislayers
+[submodule "arcgisplaces"]
+	path = arcgisplaces
+	url = https://github.com/r-arcgis/arcgisplaces
 [submodule "arcgisutils"]
 	path = arcgisutils
 	url = https://github.com/r-arcgis/arcgisutils
